@@ -8,7 +8,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/uralsmh/)
 [![Gmail Badge](https://img.shields.io/badge/-uralsmh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uralsmh.com)](mailto:asterp04@gmail.com)
 
-
 #### About Me
 
 - 🔭 I’m currently working as a **Software Engineer @ [adidas](https://www.adidas.com)**
