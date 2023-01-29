@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-#### I'm a Software Engineer at [adidas](https://www.adidas.com) working in Amsterdam, Netherlands.
+#### I'm a Software Engineer at [TomTom](https://www.tomtom.com) working in Amsterdam, Netherlands.
 
 [![Linkedin Badge](https://img.shields.io/badge/-semihural-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/semihural)](https://www.linkedin.com/in/semihural)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/uralsemih) [![Twitter Badge](https://img.shields.io/badge/-@uralsmh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uralsmh)](https://twitter.com/uralsmh)
@@ -10,7 +10,7 @@
 
 #### About Me
 
-- 🔭 I’m currently working as a **Software Engineer @ [adidas](https://www.adidas.com)**
+- 🔭 I’m currently working as a **Software Engineer @ [TomTom](https://www.tomtom.com)**
 - ⚙️ I use daily: `node.js`, `docker`, `kubernetes`, `jenkins`
 - 🌱 I’m currently learning **Java - React**
 - 👯 I’m looking to collaborate on open source/commercial projects
